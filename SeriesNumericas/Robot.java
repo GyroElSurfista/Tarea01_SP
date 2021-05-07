@@ -1,5 +1,5 @@
-  public class Robot
-  {
+public class Robot
+{
     public void ejercicio1(int n){
         int num = 1;
         int contador = 0;
